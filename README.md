@@ -28,3 +28,7 @@ Running the Experiments
 2. To run a one layer Generalized Denoising Autoencoder without a walkback procedure (paper \[2\])
 
         python dae_no_walkback.py
+
+3. To run a Generative Stochastic Network (paper \[1\])
+
+        python gsn.py
